@@ -9,6 +9,8 @@ namespace NoFogOfWar
         {
             base.OnSubModuleLoad();
 
+            _ = Configs.Instance;
+
             Harmony harmony = new Harmony("com.nofogofwar");
 
             harmony.PatchAll();
