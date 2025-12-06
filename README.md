@@ -10,3 +10,5 @@ The mod is fully customizable through the **MCM (Mod Configuration Menu)**. Play
 
 Total flexibility, full control.
 Additionally, the mod makes **no changes to save files**, meaning it can be installed or uninstalled at any time without risk. Your campaign stays perfectly safe.
+
+Localization support for: BR,DE,FR,IT,PL,RU,SP,TR

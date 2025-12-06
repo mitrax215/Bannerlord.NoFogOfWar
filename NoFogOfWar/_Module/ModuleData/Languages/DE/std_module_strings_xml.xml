@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="NoFogOfWar.b5527329" text="Kein Nebel des Krieges" />
+    <string id="NoFogOfWar.4f8e20f7" text="Helden" />
+    <string id="NoFogOfWar.6d91efcd" text="Siedlungen" />
+    <string id="NoFogOfWar.6ffb53b3" text="Es ermöglicht dem Spieler, alle Helden kennenzulernen." />
+    <string id="NoFogOfWar.42c2da62" text="Es ermöglicht dem Spieler, alle Siedlungen zu erkunden." />
+  </strings>
+</base>

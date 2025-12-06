@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData id="Français" name="Français" subtitle_extension="fr-FR" supported_iso="fr,fre,fr-fr">
+  <LanguageFile xml_path="FR/std_module_strings_xml.xml" />
+</LanguageData>

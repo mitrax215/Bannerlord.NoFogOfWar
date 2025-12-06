@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="NoFogOfWar.b5527329" text="Никакого тумана войны" />
+    <string id="NoFogOfWar.4f8e20f7" text="Герои" />
+    <string id="NoFogOfWar.6d91efcd" text="Поселения" />
+    <string id="NoFogOfWar.6ffb53b3" text="Это позволяет игроку познакомиться со всеми героями." />
+    <string id="NoFogOfWar.42c2da62" text="Это позволяет игроку исследовать все поселения." />
+  </strings>
+</base>

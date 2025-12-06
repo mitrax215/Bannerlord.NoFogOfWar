@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Español (LA)" />
+  </tags>
+  <strings>
+    <string id="NoFogOfWar.b5527329" text="Sin niebla de guerra" />
+    <string id="NoFogOfWar.4f8e20f7" text="Héroes" />
+    <string id="NoFogOfWar.6d91efcd" text="Asentamientos" />
+    <string id="NoFogOfWar.6ffb53b3" text="Le permite al jugador conocer a todos los héroes." />
+    <string id="NoFogOfWar.42c2da62" text="Le permite al jugador explorar todos los asentamientos." />
+  </strings>
+</base>
